@@ -4,3 +4,4 @@
 # 취미 : 클라이밍
 # Email : suhoo1102@naver.com
 # MBTI : INFP
+# 좋아하는 음식 : 우동, 피자
